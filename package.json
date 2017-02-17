@@ -1,0 +1,29 @@
+{
+  "name": "rgrjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanMarcell/rgrjs.git"
+  },
+  "keywords": [
+    "React",
+    "Relay",
+    "GraphQL",
+    "Flux",
+    "Node",
+    "Express",
+    "MongoDB",
+    "FullStack"
+  ],
+  "author": "Alan Marcell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanMarcell/rgrjs/issues"
+  },
+  "homepage": "https://github.com/AlanMarcell/rgrjs#readme"
+}
