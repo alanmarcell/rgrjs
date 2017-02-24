@@ -1,17 +1,3 @@
-// without options
 {
-    "plugins": [
-        "transform-react-jsx"
-    ]
+	"presets": ["es2015"]
 }
-// with options
-// {
-//     "plugins": [
-//         [
-//             "transform-react-jsx",
-//             {
-//                 "pragma": "dom" // default pragma is React.createElement
-//             }
-//         ]
-//     ]
-// }
